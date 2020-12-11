@@ -1,0 +1,18 @@
+
+#formContainer{
+    background-color: #a2d2ff;
+    border-radius: 30px;
+}
+
+h1{
+    color: #457b9d;
+}
+
+.hide {
+    display: none;
+}
+
+.card-header {
+    color: white;
+    background-color: #e63946;
+}
